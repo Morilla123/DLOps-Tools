@@ -1,0 +1,6 @@
+[core]
+    remote = gdrive-remote
+['remote "storage"']
+    url = gs://dvc-test-2b128.appspot.com
+['remote "gdrive-remote"']
+    url = ../dvc_data
